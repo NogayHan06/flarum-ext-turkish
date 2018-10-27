@@ -54,7 +54,7 @@ moment.locale('tr', {
         hh : '%d saat',
         d : '1 gün',
         dd : '%d gün',
-        M : 'ay',
+        M : '1 ay',
         MM : '%d ay',
         y : 'yıl',
         yy : '%d yıl'
